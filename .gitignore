@@ -53,6 +53,10 @@ models/
 *.gguf
 *.ggml
 
+# Local model / Hugging Face caches
+.huggingface/
+.cache/
+
 # =========================
 # Logs / temporary files
 # =========================
