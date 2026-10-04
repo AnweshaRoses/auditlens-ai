@@ -1,0 +1,22 @@
+[
+    {
+      "question": "What are the company's current assets?",
+      "expected_pages": [11]
+    },
+    {
+      "question": "What is the company's cash and cash equivalents balance?",
+      "expected_pages": [11]
+    },
+    {
+      "question": "What is the company's trade receivables balance?",
+      "expected_pages": [11]
+    },
+    {
+      "question": "What are the company's intangible assets?",
+      "expected_pages": [11, 21]
+    },
+    {
+      "question": "What is the company's deferred tax asset?",
+      "expected_pages": [11, 22]
+    }
+  ]
